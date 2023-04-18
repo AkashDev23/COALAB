@@ -1,0 +1,6 @@
+;akash dev
+;Regd.No 2141004126
+
+MOV AX,4500H
+NOT AX
+INC AX
